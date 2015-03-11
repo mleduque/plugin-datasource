@@ -22,6 +22,7 @@ Screenshots
 -----------
 
 ![Datasource creation wizard](../screenshots/screenshots/datasource_plugin_creation.png?raw=true, "Datasource creation wizard")
+Change
 
 ![Datasource explorer](../screenshots/screenshots/datasource_plugin_explorer.png?raw=true, "Datasource explorer")
 
